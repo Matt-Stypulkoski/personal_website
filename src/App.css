@@ -910,6 +910,10 @@
     color: navy;
 }
 
+.contact_icon .fa-linkedin {
+    color: blue;
+}
+
 @media only screen and (min-width: 768px) {
 
     .contact_content p {
