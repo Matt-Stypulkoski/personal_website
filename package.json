@@ -2,7 +2,7 @@
   "name": "web-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mstypulk.github.io/personal_website/",
+  "homepage": "https://Matt-Stypulkoski.github.io/personal_website/",
   "dependencies": {
     "classnames": "^2.2.6",
     "react": "^16.5.2",
