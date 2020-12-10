@@ -17,7 +17,7 @@ const Projects = React.forwardRef((props, ref) =>
             </div>
             <div className="game_route_container">
                 <img src={ HighRollerScreenShotMobile } alt="" />
-                <p><a className="game_link" href="https://mstypulk.github.io/HighRoller/" target="_blank" rel="noopener noreferrer">Play the Game!</a></p>
+                <p><a className="game_link" href="https://matt-stypulkoski.github.io/HighRoller/" target="_blank" rel="noopener noreferrer">Play the Game!</a></p>
                 <p className="side_note">Note: Game cannot be played on mobile devices.</p>
             </div>
         </div>
